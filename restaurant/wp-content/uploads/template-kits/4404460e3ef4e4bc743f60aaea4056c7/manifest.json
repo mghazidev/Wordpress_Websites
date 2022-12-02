@@ -1,0 +1,288 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Restaurant & Caf\u00e9",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Restaurant",
+            "screenshot": "screenshots\/home-restaurant.jpg",
+            "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant 2",
+            "screenshot": "screenshots\/home-restaurant-2.jpg",
+            "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant 3",
+            "screenshot": "screenshots\/home-restaurant-3.jpg",
+            "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Cafe",
+            "screenshot": "screenshots\/home-cafe.jpg",
+            "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Cafe 2",
+            "screenshot": "screenshots\/home-cafe-2.jpg",
+            "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 1",
+            "screenshot": "screenshots\/menus-restaurant-1.jpg",
+            "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 2",
+            "screenshot": "screenshots\/menus-restaurant-2.jpg",
+            "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 3",
+            "screenshot": "screenshots\/menus-restaurant-3.jpg",
+            "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Cafe 1",
+            "screenshot": "screenshots\/menus-cafe-1.jpg",
+            "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Cafe 2",
+            "screenshot": "screenshots\/menus-cafe-2.jpg",
+            "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 1",
+            "screenshot": "screenshots\/about-restaurant-1.jpg",
+            "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 2",
+            "screenshot": "screenshots\/about-restaurant-2.jpg",
+            "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 3",
+            "screenshot": "screenshots\/about-restaurant-3.jpg",
+            "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Cafe 1",
+            "screenshot": "screenshots\/about-cafe-1.jpg",
+            "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Cafe 2",
+            "screenshot": "screenshots\/about-cafe-2.jpg",
+            "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation 1",
+            "screenshot": "screenshots\/reservation-1.jpg",
+            "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation 2",
+            "screenshot": "screenshots\/reservation-2.jpg",
+            "source": "templates\/reservation-2-66012d32b3fa4485984f7f607f3302fe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-47adce9794bc08c58688bd625bb4d360.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2",
+            "screenshot": "screenshots\/coming-soon-2.jpg",
+            "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-5d3fdda3b6d3196d1b393948e9719bde.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-ed10bd110ae7c4c28162249c39d02569.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": []
+}
